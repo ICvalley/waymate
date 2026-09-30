@@ -2,8 +2,7 @@
 
 > Short description of the project.
 
-**Website:** https://example.com  
-**Original Repository:** https://github.com/username/repository (if applicable)
+**Website:** [waymate](https://waymate-u.web.app/ ) 
 
 ## Ownership & Founders Agreement
 
