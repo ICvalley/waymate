@@ -1,6 +1,6 @@
-# Project Name
+# WayMate
 
-> Short description of the project.
+> Share the ride, split the price.
 
 **Website:** [waymate](https://waymate-u.web.app/ ) 
 
